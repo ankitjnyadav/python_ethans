@@ -1,0 +1,17 @@
+[
+    {
+        "username": "super", 
+        "password": "pwd", 
+        "type": "admin"
+    }, 
+    {
+        "username": "ankit", 
+        "password": "pwd", 
+        "type": "guest"
+    }, 
+    {
+        "username": "ankitK", 
+        "password": "pwd", 
+        "type": "guest"
+    }
+]

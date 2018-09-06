@@ -1,0 +1,11 @@
+[
+    {
+        "status": "Confirmed", 
+        "src": "Source", 
+        "totalFare": "780", 
+        "dest": "Dest", 
+        "PNR": "randomNo", 
+        "noOfSeats": "2", 
+        "coachType": "AC"
+    }
+]

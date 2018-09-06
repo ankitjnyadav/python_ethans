@@ -1,0 +1,23 @@
+[
+    {
+        "fare": {
+            "AC3": "900", 
+            "SL": "500"
+        }, 
+        "src": "Pune", 
+        "dest": "Delhi", 
+        "trainNo": "1", 
+        "days": [
+            "Mon", 
+            "Tues"
+        ], 
+        "seats": {
+            "AC3": "20", 
+            "SL": "60"
+        }, 
+        "coachType": [
+            "SL", 
+            "AC3"
+        ]
+    }
+]
